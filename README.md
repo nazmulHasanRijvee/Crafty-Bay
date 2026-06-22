@@ -8,9 +8,7 @@ This project is currently under active development.
 ## 📸 Screenshots
 <p align="center">
   <!-- Add your screenshots here -->
-  <img src="https://via.placeholder.com/200x400?text=Screen+1" width="200">
-  <img src="https://via.placeholder.com/200x400?text=Screen+2" width="200">
-  <img src="https://via.placeholder.com/200x400?text=Screen+3" width="200">
+  <img width="420" height="235" alt="pr4" src="https://github.com/user-attachments/assets/e786f09b-d50c-4417-9ccf-4812cee67454" />
 </p>
 
 ## ✨ Key Features
